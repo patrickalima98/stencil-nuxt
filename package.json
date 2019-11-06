@@ -1,0 +1,19 @@
+{
+  "name": "stencil-nuxt",
+  "version": "1.0.0",
+  "description": "My magnificent Nuxt.js project",
+  "author": "patrickalima98@live.com",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bulmil": "0.0.8",
+    "nuxt": "^2.0.0",
+    "nuxt-stencil": "^0.1.1"
+  },
+  "devDependencies": {}
+}
